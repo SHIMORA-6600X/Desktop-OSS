@@ -2,9 +2,9 @@
 Free and open-source alternatives for desktop.
 
 ## Table of Contents
-[Apps](https://github.com/SHIMORA-6600X/Desktop-OSS/edit/main/README.md#-apps-)
+[Apps](https://github.com/SHIMORA-6600X/Desktop-OSS#-apps-)
 
-[Browser](https://github.com/SHIMORA-6600X/Desktop-OSS/edit/main/README.md#browser)
+[Browser](https://github.com/SHIMORA-6600X/Desktop-OSS#browser)
 
 ## – Apps –
 
